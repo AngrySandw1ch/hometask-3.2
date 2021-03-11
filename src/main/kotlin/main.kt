@@ -4,8 +4,8 @@ fun main() {
     val visa = "Visa"
     val world = "Мир"
     val vkPay = "VK Pay"
-    val sum = 16_000.0
-    println(calculateCommission(masterCard, sum))
+    val sum = 140000.0
+    println(calculateCommission(visa, sum))
 }
 
 fun calculateCommission(card: String = "VK Pay", sum: Double = 0.0) : String  {

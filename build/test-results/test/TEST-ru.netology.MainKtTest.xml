@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.MainKtTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2021-03-11T17:50:22" hostname="ARTEM" time="0.038">
+  <properties/>
+  <testcase name="calculateCommission_caseVKPay_remittanceFail" classname="ru.netology.MainKtTest" time="0.014"/>
+  <testcase name="calculateCommission_caseWorld_remittanceFail_moreThen150k" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommission_caseMasterCard_remittanceWithoutCommission" classname="ru.netology.MainKtTest" time="0.003"/>
+  <testcase name="calculateCommission_caseMasterCard_remittanceFail_moreThen150k" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="visaCardCommission" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommission_caseWorld_remittanceFail_lessThen50" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommission_caseVKPay_remittance" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="masterCardCommission" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommission_caseMaestro_remittanceFail_lessThen50" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommission_caseWorld_remittanceWithCommission" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommission_caseMaestro_remittanceWithCommission" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommission_caseVisa_remittanceFail" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommission_caseMasterCard_remittanceFail_lessThen50" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommission_caseMaestro_remittanceWithoutCommission" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommission_caseVisa_remittanceWithCommission" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommission_caseMaestro_remittanceFail_moreThen150k" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommission_caseMasterCard_remittanceWithCommission" classname="ru.netology.MainKtTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
